@@ -1,0 +1,25 @@
+.imgFoto1{
+    width: 160px;
+    height: 150px;
+    border-radius: 51px;
+}
+/*Esto es un Comentario*/
+.imgPersona{
+    width: 160px;
+    height: 150px;
+}
+.imgHTML{
+    width: 84px;
+    height: 84px;
+}
+.imgCSS{
+    width: 84px;
+    height: 84px;
+}
+.imgJS{
+    width: 84px;
+    height: 84px;
+}
+th{
+    background-color: silver;
+}
